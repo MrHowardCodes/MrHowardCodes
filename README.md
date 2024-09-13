@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning several front-end frameworks
 - 💞️ I’m looking to collaborate on web-based and software projects
-- 📫 How to reach me ... josh@howard.codes
+- 📫 How to reach me ... josh@mrhoward.net
 
 <!---
 MrHowardCodes/MrHowardCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
